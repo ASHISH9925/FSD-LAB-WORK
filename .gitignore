@@ -1,0 +1,17 @@
+# macOS files
+.DS_Store
+**/.DS_Store
+
+# Node
+node_modules/
+
+# Logs
+logs
+*.log
+
+# dotenv
+.env
+
+# Editor directories
+.vscode/
+.idea/
